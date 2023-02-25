@@ -1,6 +1,6 @@
 # Vesxa
 
-Halo Infinite API Explorer
+Halo Infinite + Halo 5 API Explorer
 
 # Contact 
 
